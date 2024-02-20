@@ -8,3 +8,8 @@ hello gab, list ko dito step by step ng ginawa ko up to this moment haha
 7. typed git add . 
 8. typed git commit -m "description nung changes na ginawa mo"
 9. typed git push origin master --- para mapush
+
+
+
+Gab: pwede na ba mamatay?
+Gab: ahhhhh
