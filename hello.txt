@@ -1,0 +1,6 @@
+hello gab, list ko dito step by step ng ginawa ko up to this moment haha
+1. created a folder sa Desktop named "gab_villena"
+2. opened cmd
+3. typed git init
+4. created "hello.txt" file inside the gab_villena folder
+5. typed this haha
