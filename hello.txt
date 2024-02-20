@@ -4,3 +4,7 @@ hello gab, list ko dito step by step ng ginawa ko up to this moment haha
 3. typed git init
 4. created "hello.txt" file inside the gab_villena folder
 5. typed this haha
+6. typed git add origin tas link with token
+7. typed git add . 
+8. typed git commit -m "description nung changes na ginawa mo"
+9. typed git push origin master --- para mapush
